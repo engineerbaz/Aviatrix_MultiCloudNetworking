@@ -27,6 +27,6 @@ The ACE-Associate training covers proven design patterns for multi-cloud archite
 7. [ACE_Aviatrix_Features_01](https://github.com/engineerbaz/Aviatrix_MultiCloudNetworking/blob/main/7_ACE_Aviatrix_Features_01.md)
 8. [ACE_Aviatrix_Features_Overview_02](https://github.com/engineerbaz/Aviatrix_MultiCloudNetworking/blob/main/8_ACE_Aviatrix_Features_Overview_02.md)
 9. [ACE_Day_2_Operations](https://github.com/engineerbaz/Aviatrix_MultiCloudNetworking/blob/main/9_ACE_Day_2_Operations.md)
-10. [ACE_CoPilot_ControllerDeployment] (https://github.com/engineerbaz/Aviatrix_MultiCloudNetworking/blob/main/10_ACE_CoPilot_%20ControllerDeployment.md)
+10. [ACE_CoPilot_ControllerDeployment](https://github.com/engineerbaz/Aviatrix_MultiCloudNetworking/blob/main/10_ACE_CoPilot_%20ControllerDeployment.md)
 11. [ACE_Real_Aviatrix_Customer_Walk](https://github.com/engineerbaz/Aviatrix_MultiCloudNetworking/blob/main/11_ACE_Real_Aviatrix_Customer_Walk.md)
 
