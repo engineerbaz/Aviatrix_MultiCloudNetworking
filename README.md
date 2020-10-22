@@ -14,11 +14,11 @@ The Aviatrix Certified Engineer (ACE) program offers the industry's first multi-
 The ACE-Associate training covers proven design patterns for multi-cloud architecture and key networking and security use cases supported by the architecture – focusing on AWS, Azure, and Google Cloud. The training also discusses Day 2 operational requirements including visibility, monitoring, and time-saving troubleshooting techniques.
 </br>
 
+-------------------------------------------------------------------------------------------
 
-
---
-Initially all focused on On-prem DataCenter, Then Public Cloud entered. 
-After some time most of network started moving piblic cloud with DevOps
+### Introduction 
+- Initially all focused on On-prem DataCenter, Then Public Cloud entered. 
+- After some time most of network started moving piblic cloud with DevOps
 
 ### Some Challenges 
 - Less resources in public to make industry grade solutions
@@ -35,7 +35,6 @@ After some time most of network started moving piblic cloud with DevOps
 - Lack of Visibility & Troubleshooting
 #### Grow
 - Expand to MultiCloud 100% on your own
-
 
 
 ### Solving Challenges for Enterprise in Public Cloud
