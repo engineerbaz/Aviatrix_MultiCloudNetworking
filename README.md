@@ -18,6 +18,8 @@ The ACE-Associate training covers proven design patterns for multi-cloud archite
 ## **Table of Content**
 
 - [ACE_Introduction_Why_need](https://github.com/engineerbaz/Aviatrix_MultiCloudNetworking/blob/main/0_ACE_Introduction_Why_need.md)
+- [ACE_Networking_Principles](https://github.com/engineerbaz/Aviatrix_MultiCloudNetworking/blob/main/1_ACE_Networking_Principles.md)
+
  
 
 
