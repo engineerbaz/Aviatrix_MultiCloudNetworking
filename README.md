@@ -1,23 +1,27 @@
 # Aviatrix ACE Multi Cloud Networking Associate 
-Notes for preparation of ACE (Aviatrix Certified Engineer) for Multi Cloud Networking Associate
+These are my preparation notes of ACE (Aviatrix Certified Engineer) for Multi Cloud Networking Associate
 
 Good luck & enjoy studying! coffee
+
 Contributions of any kind are welcome! sparkles
 
 
-Reference Link: https://community.aviatrix.com/t/y4hh4ml/ace-associate-self-paced-learning-guidelines
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-ACE FAQ: https://community.aviatrix.com/t/h7hxfw4
+## What is ACE? 
+The Aviatrix Certified Engineer (ACE) program offers the industry's first multi-cloud networking education and certification that enables architects, engineers, and technical staff to develop advanced networking security, and operational competencies for public cloud.
 
-- 60 min, 45 Q/Associate
-- 70% Passing
-- Notified 3 days before Exam
+## Why ACE?
+The ACE-Associate training covers proven design patterns for multi-cloud architecture and key networking and security use cases supported by the architecture – focusing on AWS, Azure, and Google Cloud. The training also discusses Day 2 operational requirements including visibility, monitoring, and time-saving troubleshooting techniques.
+</br>
+
+
 
 --
 Initially all focused on On-prem DataCenter, Then Public Cloud entered. 
 After some time most of network started moving piblic cloud with DevOps
 
-Some Challenges 
+### Some Challenges 
 - Less resources in public to make industry grade solutions
 - DevOps asks for fixing issues of connectivity
 - In on prem DC , no IAM, subscribrptions
