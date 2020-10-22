@@ -1,9 +1,8 @@
 # Aviatrix ACE Multi Cloud Networking Associate 
 These are my preparation notes of ACE (Aviatrix Certified Engineer) for Multi Cloud Networking Associate
 
-Good luck & enjoy studying! coffee
-
-Contributions of any kind are welcome! sparkles
+- Good luck & enjoy studying! :coffee: 
+-  #### Contributions of any kind are welcome! :sparkles:
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
